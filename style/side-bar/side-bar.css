@@ -1,0 +1,23 @@
+@import url(./side-bar__wrapper/side-bar__wrapper.css);
+@import url(./navigation-block/navigation-block.css);
+@import url(./navigation-list/navigation-list.css);
+
+.side-bar {
+    width: 320px;
+    height: 100%; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: -2px 0px 4px 0px #454F7E05, 16px 0px 52px 0px #0E185033;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+@media screen and (max-height: 750px) {
+    .side-bar{
+        overflow-y: scroll;
+    }
+}

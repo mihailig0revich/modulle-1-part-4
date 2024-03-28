@@ -1,0 +1,6 @@
+@import url(./nav-btn/nav-btn.css);
+.left-menu{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}

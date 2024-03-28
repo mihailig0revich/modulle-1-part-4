@@ -1,0 +1,9 @@
+.navigation-list__link{
+    text-decoration: none;
+    color: #1B1C21;
+    opacity:1;
+    transition: opacity 0.3s;
+}
+.navigation-list__link:hover{
+    opacity: 0.4;
+}

@@ -1,0 +1,16 @@
+.footer-contats__email{
+    font-family: TT Lakes;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.20000000298023224px;
+    text-align: left;
+    padding: 0;
+    text-decoration: none;
+    display: block;
+    color: #1B1C21;
+    opacity: 1;
+    transition: opacity 0.3s;
+}
+.footer-contats__email:hover{
+    opacity: 0.5;
+}

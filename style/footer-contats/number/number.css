@@ -1,0 +1,18 @@
+.footer-contats__number{
+    font-family: TT Lakes;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: bold;
+    letter-spacing: -0.6000000238418579px;
+    text-align: left;
+    padding: 0;
+    margin: 0 0 40px 0;
+    display: block;
+    text-decoration: none;
+    color: #1B1C21;
+    opacity: 1;
+    transition: opacity 0.3s;
+}
+.footer-contats__number:hover{
+    opacity: 0.5;
+}
